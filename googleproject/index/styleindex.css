@@ -249,17 +249,12 @@
 	flex-direction: row-reverse;
 	flex-wrap: nowrap;
 	white-space: nowrap;
-}b
+}
+
 
 input 
 {
 	border: none;
-}
-
-html
-{
-	height: 100%;
-	margin:0;
 }
 
 body
